@@ -1,0 +1,2 @@
+{"TimeStamp":"1558530347844","StatusType":"vad_status","IrpStatus":"{\"system_info\":{\"version_info\":\"ver1.0\"},\"event_vad_status\":{\"vad_status\":\"BeginCSR\",\"sound_level\":0,\"doa\":39}}"}
+{"TimeStamp":"1558530347851","StatusType":"vad_status","IrpStatus":"{\"system_info\":{\"version_info\":\"ver1.0\"},\"event_vad_status\":{\"vad_status\":\"Start_Csr\",\"sound_level\":0,\"doa\":39}}"}
