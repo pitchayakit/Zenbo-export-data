@@ -9,7 +9,7 @@ fs.createReadStream('input.csv')
     
     let check_obj = false;
     for(let i=0 ; i < apps.length ;i++){
-        if(apps[i].name == row.word){
+        if(apps[i].name == row["Corrected Sentence"]){
             check_obj = true;
             apps[i].count += 1;
             break;
