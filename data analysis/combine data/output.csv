@@ -1,35 +1,158 @@
 Name,Access count,Duration
-System UI,9,00:01:06
-Zenbo App List,116,02:26:12
-Device boot,10,00:00:13
-FacialExp,12,00:00:03
-Talk,11,00:07:25
-Screen on (unlocked),2,00:00:06
-Screen off,2,00:10:37
-ZenboClassroomMode,2,00:01:26
-Photos,6,00:01:14
-Slides,4,00:00:49
-Settings,10,00:03:49
-Zenbo Classroom Mode,17,00:32:28
-Package installer,14,00:00:30
-Documents,2,00:00:12
-Facebook,3,00:00:29
-Camera,5,00:05:02
-Recipes,15,00:11:54
-Zenbo Video,12,00:12:30
-Keyboards,3,00:00:24
-Smart Home,13,00:09:36
-LocalDS,8,00:02:40
-Shopping,6,00:05:50
-Portal App,11,00:03:59
-Zenbo Fun Coding,4,00:11:17
-Classroom,5,00:01:02
-Drive,2,00:00:03
-Zenbo_alarm,4,00:00:58
-Google Play Store,2,00:02:38
-Zenbo App Builder,2,00:00:27
-RobotProvider,2,00:00:33
-App Usage,1,00:00:09
-Weather,2,00:05:12
-Music,1,00:00:02
-Home Mapping,1,00:00:02
+App Usage,1,00:00:01
+Zenbo App List,1,00:00:04
+File Manager,1,00:00:05
+Gmail,1,00:00:16
+File Manager,1,00:00:33
+Zenbo App List,1,01:37:41
+Slides,1,00:01:00
+Zenbo App List,1,00:00:04
+File Manager,1,00:00:02
+Zenbo App List,1,00:06:45
+Slides,1,00:00:02
+Zenbo App List,1,00:03:05
+Zenbo combine slides,1,00:05:00
+Slides,1,00:07:39
+Zenbo combine slides,1,00:00:14
+Slides,1,00:05:39
+Zenbo combine slides,1,00:00:02
+Slides,1,00:03:47
+Zenbo combine slides,1,00:00:02
+Slides,1,00:02:44
+Zenbo combine slides,1,00:00:03
+Slides,1,00:05:39
+Zenbo combine slides,1,00:00:16
+Zenbo App List,1,00:00:10
+Slides,1,00:02:04
+Zenbo combine slides,1,00:00:04
+Slides,1,00:10:02
+Zenbo combine slides,1,00:00:03
+Slides,1,00:00:04
+Zenbo_alarm,1,00:00:05
+Slides,1,00:03:04
+Zenbo combine slides,1,00:00:01
+Zenbo App List,1,00:00:04
+Zenbo Fun Coding,1,00:00:13
+Zenbo App List,1,00:00:51
+LocalDS,1,00:00:17
+Zenbo App List,1,00:03:06
+File Manager,1,00:00:02
+Zenbo App List,1,00:00:24
+System UI,1,00:00:03
+Zenbo App List,1,00:00:01
+Google Play Store,1,00:00:07
+Zenbo App List,1,00:00:09
+File Manager,1,00:00:12
+Zenbo App List,1,00:00:38
+Zenbo_alarm,1,00:00:36
+Zenbo App List,1,00:00:02
+Zenbo combine slides,1,00:00:45
+Zenbo App List,1,00:00:04
+ZenboDevSample,1,00:00:03
+Zenbo combine slides,1,00:00:06
+ZenboDevSample,1,00:00:18
+Zenbo App List,1,00:00:07
+Zenbo_alarm,1,00:00:08
+Zenbo App List,1,00:00:12
+Zenbo_alarm,1,00:00:13
+Zenbo App List,1,00:00:47
+Zenbo_alarm,1,00:00:38
+Zenbo App List,1,00:00:04
+ZenboDevSample,1,00:00:42
+Zenbo App List,1,00:00:05
+Zenbo Fun Coding,1,00:00:09
+Zenbo App List,1,00:00:13
+ZenboDevSample,1,00:01:14
+Zenbo App List,1,00:00:31
+Zenbo App Builder,1,00:00:10
+Zenbo App List,1,00:00:04
+RobotSensorSample,1,00:00:21
+Zenbo App List,1,00:00:09
+Zenbo Classroom Mode,1,00:00:19
+Zenbo App List,1,00:00:03
+Zenbo combine slides,1,00:00:43
+Slides,1,00:00:07
+Zenbo combine slides,1,00:00:04
+Zenbo App List,1,00:00:07
+Zenbo Fun Coding,1,00:13:19
+Zenbo App List,1,00:00:07
+ZenboDialogSample,1,00:00:07
+LocalDS,1,00:00:16
+ZenboDialogSample,1,00:00:02
+Zenbo App List,1,00:00:05
+ZenboDevSample,1,00:00:49
+Zenbo App List,1,00:00:04
+Zenbo Fun Coding,1,00:06:48
+Zenbo App List,1,00:00:05
+Web Browser,1,00:03:59
+Package installer,1,00:00:18
+Web Browser,1,00:00:12
+Package installer,1,00:00:11
+Web Browser,1,00:00:17
+Zenbo App List,1,00:00:37
+System UI,1,00:00:01
+Zenbo App List,1,00:00:15
+Zenbo Classroom Mode,1,00:01:48
+Zenbo App List,1,00:00:34
+Portal App,1,00:00:09
+Zenbo App List,1,00:00:02
+System UI,1,00:00:02
+Zenbo App List,1,00:01:25
+Device boot,1,00:00:02
+Device shutdown,1,00:02:24
+Zenbo Fun Coding,1,00:00:36
+Zenbo App List,1,00:01:32
+Slides,1,00:05:22
+System UI,1,00:00:02
+Zenbo App List,1,00:00:02
+Slides,1,00:00:58
+Zenbo_alarm,1,00:00:03
+Slides,1,00:46:46
+Drive,1,00:00:02
+Classroom,1,00:00:29
+Zenbo App List,1,00:00:02
+System UI,1,00:00:04
+Drive,1,00:00:08
+Classroom,1,00:00:24
+Drive,1,00:00:04
+Classroom,1,00:00:15
+System UI,1,00:00:02
+Slides,1,00:00:07
+Drive,1,00:00:01
+Classroom,1,00:00:25
+Zenbo App List,1,00:00:03
+System UI,1,00:00:09
+Drive,1,00:00:13
+Classroom,1,00:00:04
+Drive,1,00:00:02
+Classroom,1,00:00:21
+System UI,1,00:00:01
+Classroom,1,00:03:10
+Zenbo App List,1,00:00:48
+Zenbo_alarm,1,00:03:43
+Screen on (unlocked),1,00:00:03
+Screen off,1,00:20:48
+Zenbo App List,1,00:15:39
+Slides,1,00:00:13
+Drive,1,00:00:08
+Zenbo App List,1,00:00:03
+Zenbo_alarm,1,00:00:23
+Zenbo App List,1,00:00:03
+Zenbo combine slides,1,00:00:01
+Zenbo App List,1,00:00:03
+Zenbo Classroom Mode,1,00:00:11
+Zenbo App List,1,00:00:06
+Settings,1,00:00:02
+CaptivePortalLogin,1,00:00:12
+Settings,1,00:00:26
+Zenbo App List,1,00:00:05
+Chrome,1,00:01:32
+Zenbo App List,1,00:00:01
+Settings,1,00:00:01
+Zenbo App List,1,00:00:05
+Chrome,1,00:00:14
+Zenbo App List,1,00:00:03
+CaptivePortalLogin,1,00:00:03
+Zenbo App List,1,06:15:54
+LocalDS,1,00:01:16
+Zenbo App List,1,03:25:39

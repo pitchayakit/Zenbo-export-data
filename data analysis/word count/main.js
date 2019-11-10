@@ -5,7 +5,7 @@ let apps=[];
 fs.createReadStream('input.csv')  
   .pipe(csv())
   .on('data', (row) => {
-    let obj = {name:row.word, count:1}
+    let obj = {name:row["Corrected Sentence"], count:1}
     
     let check_obj = false;
     for(let i=0 ; i < apps.length ;i++){

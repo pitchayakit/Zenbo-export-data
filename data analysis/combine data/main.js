@@ -7,7 +7,7 @@ fs.createReadStream('input.csv')
   .pipe(csv())
   .on('data', (row) => {
     let duration = TimeFormat.toS(row.Duration);
-    let obj = {name:row.App, count:1, duration:row.Duration}
+    let obj = {name:row["App name"], count:1, duration:row.Duration}
     
     let check_obj = false;
     for(let i=0 ; i < apps.length ;i++){
