@@ -11,7 +11,7 @@ fs.createReadStream('input.csv')
     
     let check_obj = false;
     for(let i=0 ; i < apps.length ;i++){
-        if(apps[i].name == row.App){
+        if(apps[i].name == row["App name"]){
             check_obj = true;
             apps[i].count += 1;
             duration_update = TimeFormat.toS(apps[i].duration) + duration; 
